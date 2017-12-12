@@ -1,0 +1,11 @@
+{
+  "name": "@jjlljj/random-number-gen",
+  "version": "1.0.0",
+  "description": "Random generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Logue",
+  "license": "ISC"
+}
